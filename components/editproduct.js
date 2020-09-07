@@ -56,7 +56,7 @@ export default function EditProduct(navigation) {
             quantity: ProductQuantity
         }
         console.log("product:", product)
-        Axios.put('http://localhost:3000/allproducts/'+detail.id, product).then(response => {
+        Axios.put('http://localhost:3004/allproducts/'+detail.id, product).then(response => {
             console.log(response.data)
            navigation.navigation.navigate('ProductsList')
             

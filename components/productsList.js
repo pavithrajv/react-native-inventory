@@ -17,7 +17,7 @@ export default function ProductsList({ navigation }) {
     // const [searchList,setSearch] = useState([])
     
    const getAllProducts=() => {
-        axios.get('http://localhost:3000/allproducts')
+        axios.get('http://localhost:3004/allproducts')
             .then(res => {
                 setProducts(res.data)
                 setSearchList(res.data)

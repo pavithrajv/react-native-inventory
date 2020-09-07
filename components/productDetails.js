@@ -20,7 +20,7 @@ export default function ProductDetails(navigation) {
   }
   const deleteHandler = (id) => {
     console.log(id)
-    Axios.delete('http://localhost:3000/allproducts/' + id)
+    Axios.delete('http://localhost:3004/allproducts/' + id)
       .then(response => {
         console.log(response.data)
         navigation.navigation.navigate('ProductsList')

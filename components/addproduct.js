@@ -53,7 +53,7 @@ export default function AddProduct({ navigation }) {
             quantity: ProductQuantity
         }
         console.log("product:", product)
-        Axios.post('http://localhost:3000/allproducts', product).then(response => {
+        Axios.post('http://localhost:3004/allproducts', product).then(response => {
             console.log(response.data)
             navigation.navigate('ProductsList')
         })

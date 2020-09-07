@@ -1,0 +1,114 @@
+{
+  "allproducts": [
+    {
+      "id": 2,
+      "productCode": "REAL45",
+      "productName": "Realme Mobile XT",
+      "category": "Mobile",
+      "vendor": "Vision star",
+      "Manufacturer": "REALME",
+      "price": "10989",
+      "quantity": "23"
+    },
+    {
+      "id": 3,
+      "productCode": "CAN365",
+      "productName": "Canon Waterproof Camera",
+      "category": "Camera",
+      "vendor": "Supercomettt",
+      "Manufacturer": "CANON",
+      "price": "510",
+      "quantity": "20"
+    },
+    {
+      "productCode": "DELP65",
+      "productName": "Dell Touchscreen Laptop",
+      "category": "Laptop",
+      "vendor": "Kanha Trading",
+      "Manufacturer": "DELL",
+      "quantity": "20",
+      "price": "30000",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "productCode": "BOAT3219",
+      "productName": "Boat Basshead Headphones",
+      "category": "Headphones",
+      "vendor": "Vision star",
+      "Manufacturer": "BOAT",
+      "price": "500",
+      "quantity": "43"
+    },
+    {
+      "id": 6,
+      "productCode": "JBL534",
+      "productName": "JBL Bluetooth Speaker",
+      "category": "Speaker",
+      "vendor": "Corseca",
+      "Manufacturer": "JBL",
+      "price": "2151",
+      "quantity": "28"
+    },
+    {
+      "productCode": "SAM456",
+      "productName": "Samsung Galaxy M40",
+      "vendor": "vision star",
+      "category": "Mobile",
+      "Manufacturer": "SAMSUNG",
+      "quantity": "20",
+      "price": "14521",
+      "id": 8
+    },
+    {
+      "id": 10,
+      "productCode": "LEN025",
+      "productName": "HP Elitebookzz Folio Laptop",
+      "category": "Laptop",
+      "vendor": "Sargam pvt ltd",
+      "Manufacturer": "HP",
+      "price": "23199",
+      "quantity": "20"
+    },
+    {
+      "productCode": "SONY239",
+      "productName": "Sony Alpha ILCE5100L 24.3MP Mirrorless Camera",
+      "category": "Camera",
+      "vendor": "SuperComet",
+      "Manufacturer": "SONY",
+      "price": "32891",
+      "quantity": "40",
+      "id": 11
+    },
+    {
+      "productCode": "ONE340",
+      "productName": "OnePlus Bullets Wireless Z in-Ear Bluetooth Earphones with Mic (Black)",
+      "vendor": " Appario Retail Private Ltd ",
+      "category": "Headphones",
+      "Manufacturer": "ONE PLUS",
+      "quantity": "20",
+      "price": "2141",
+      "id": 12
+    },
+    {
+      "productCode": "SAMGL64",
+      "productName": "Samsung Galaxy Z Flip (Gold)",
+      "vendor": "Appario Pvt Ltd",
+      "category": "Mobile",
+      "Manufacturer": "SAMSUNG",
+      "quantity": "45",
+      "price": "14630",
+      "id": 13
+    },
+    {
+      "id": 14,
+      "productCode": "test123",
+      "productName": "test",
+      "category": "Mobile",
+      "vendor": "test",
+      "Manufacturer": "test",
+      "price": "122",
+      "quantity": "25"
+    }
+  ]
+}
